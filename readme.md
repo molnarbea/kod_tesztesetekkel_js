@@ -20,6 +20,10 @@ A nem betű karaktereket (szám, írásjel, szóköz stb.) figyelmen kívül kel
 
 - Nézz utána w3shools oldalán a szövegkezelő és a listakezelő függvényeknek!
 
+- Listakezelő függvények: <a href="https://www.w3schools.com/js/js_array_methods.asp">JS Array</a> (push(), indexOf(), sort(),  )
+- Szövegkezelő függvények: kisbetűssé alakítás
+- Reguláris kifejezések: <a href="https://www.w3schools.com/jsref/jsref_regexp_test.asp">Illesztés reguláris kifejezéshez</a>  /^[a-záéíóöőúüű]$/.test(szoveg)
+
 ---
 
 ## ✳️ Példák
@@ -33,3 +37,5 @@ A nem betű karaktereket (szám, írásjel, szóköz stb.) figyelmen kívül kel
 
 >>> egyedi_betuk("Árvíztűrő tükörfúrógép")
 ['f', 'g', 'k', 'p', 'r', 't', 'v', 'z', 'á', 'é', 'í', 'ó', 'ö', 'ú', 'ü', 'ő', 'ű']
+
+
